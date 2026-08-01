@@ -135,6 +135,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T14:45:40.000Z",
+          "number": "50932128952",
+          "service": "WhatsApp",
+          "message": "# Code WhatsApp  894-894\nNe partagez pas ce code\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T14:00:02.000Z",
           "number": "992982221218",
           "service": "Facebook",
@@ -365,14 +373,6 @@
           "message": "# Code WhatsApp  411-170\nNe partagez pas ce code\n4sgLq1p5sV6",
           "country": "Haiti",
           "source": "API 3"
-        },
-        {
-          "timestamp": "2026-07-25T07:46:25.000Z",
-          "number": "258861387272",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 777-845\nDont share this code with others\nrJbAXP1KV",
-          "country": "Mozambique",
-          "source": "Api 5"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -404,6 +404,16 @@
           "firstName": "Rana",
           "registeredAt": "2026-08-01T14:15:21.375Z",
           "numbers": []
+        }
+      ],
+      "otpHistory": [
+        {
+          "timestamp": "2026-08-01T14:45:40.000Z",
+          "number": "50932128952",
+          "service": "WhatsApp",
+          "message": "# Code WhatsApp  894-894\nNe partagez pas ce code\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "API 3"
         }
       ]
     }
@@ -743,7 +753,8 @@
     "211981403532",
     "211981400504",
     "50932981342",
-    "992982221218"
+    "992982221218",
+    "50932128952"
   ],
   "manualNumbers": [
     {
@@ -13165,6 +13176,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T14:45:40.000Z",
+      "number": "50932128952",
+      "service": "WhatsApp",
+      "message": "# Code WhatsApp  894-894\nNe partagez pas ce code\n4sgLq1p5sV6",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T14:00:02.000Z",
       "number": "992982221218",
       "service": "Facebook",
@@ -17154,14 +17173,6 @@
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business code 624-116\nDont share this code with others\nrJbAXP1KV",
       "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-29T02:54:33.000Z",
-      "number": "50932750575",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 961-972\nrJbAXP1KV",
-      "country": "Haiti",
       "source": "Api 5"
     }
   ],
