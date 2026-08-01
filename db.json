@@ -397,7 +397,15 @@
         "btn3Url": "",
         "status": "active"
       },
-      "subscribers": []
+      "subscribers": [
+        {
+          "chatId": 7077890783,
+          "username": "teamzerotrace",
+          "firstName": "Rana",
+          "registeredAt": "2026-08-01T14:15:21.375Z",
+          "numbers": []
+        }
+      ]
     }
   ],
   "claimedNumbers": [
