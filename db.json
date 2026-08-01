@@ -95,6 +95,13 @@
               "service": "Api 6",
               "registeredAt": "2026-08-01T13:02:07.342Z",
               "messageId": 220345
+            },
+            {
+              "number": "211981408361",
+              "country": "Unknown",
+              "service": "Api 6",
+              "registeredAt": "2026-08-01T13:06:10.681Z",
+              "messageId": 220345
             }
           ]
         },
@@ -687,7 +694,8 @@
     "50932960266",
     "211981409618",
     "258860475172",
-    "211981403944"
+    "211981403944",
+    "211981408361"
   ],
   "manualNumbers": [
     {
@@ -725,14 +733,6 @@
     {
       "id": "num_1785333898184_f0y04",
       "number": "211981407258",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_4zjqc",
-      "number": "211981408361",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
