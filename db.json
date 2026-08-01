@@ -149,6 +149,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T15:59:13.000Z",
+          "number": "50932115269",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 537-961\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T15:52:59.000Z",
           "number": "50932042912",
           "service": "WhatsApp",
@@ -379,14 +387,6 @@
           "message": "Your WhatsApp code 851-732nDont share this code with others",
           "country": "Venezuela",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T00:40:09.000Z",
-          "number": "584162827862",
-          "service": "WhatsApp",
-          "message": "Codigo de WhatsApp Business 645-135nNo compartas este codigo con nadie",
-          "country": "Venezuela",
-          "source": "API 2"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -421,6 +421,14 @@
         }
       ],
       "otpHistory": [
+        {
+          "timestamp": "2026-08-01T15:59:13.000Z",
+          "number": "50932115269",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 537-961\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
         {
           "timestamp": "2026-08-01T15:52:59.000Z",
           "number": "50932042912",
@@ -848,7 +856,8 @@
     "258860809093",
     "211981403140",
     "50932125460",
-    "50932042912"
+    "50932042912",
+    "50932115269"
   ],
   "manualNumbers": [
     {
@@ -13270,6 +13279,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T15:59:13.000Z",
+      "number": "50932115269",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 537-961\nrJbAXP1KV",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T15:52:59.000Z",
       "number": "50932042912",
       "service": "WhatsApp",
@@ -17258,14 +17275,6 @@
       "number": "50933824146",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 582-470\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-29T02:13:42.000Z",
-      "number": "50932768466",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp code 185-745\nDont share this code with others\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
