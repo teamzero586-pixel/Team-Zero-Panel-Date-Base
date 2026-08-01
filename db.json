@@ -384,11 +384,18 @@
       "email": "ranausman561618@gmail.com",
       "password": "1Q2w3e4@",
       "botConfig": {
-        "token": "",
-        "groupId": "",
-        "ownerChatId": "",
+        "token": "8803399056:AAH26e8DJiCRLn-LOiXIKwFZ9ubpPTzkAXo",
+        "groupId": "-1003125912383",
+        "ownerChatId": "7077890783",
         "botLink": "",
-        "otpGroupUrl": ""
+        "otpGroupUrl": "",
+        "btn1Text": "",
+        "btn1Url": "",
+        "btn2Text": "",
+        "btn2Url": "",
+        "btn3Text": "",
+        "btn3Url": "",
+        "status": "active"
       },
       "subscribers": []
     }
